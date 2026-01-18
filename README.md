@@ -1,12 +1,12 @@
-##Data Visualization with Python
+**Data Visualization with Python**
 
-📌 Overview
+**📌 Overview**
 
 This repository demonstrates a wide range of data visualization techniques in Python, from basic plots to interactive dashboards. It showcases how complex datasets can be explored, analyzed, and presented visually to reveal insights.
 
 These projects were completed using Jupyter Notebooks as part of my journey in IBM Data Analyst Professional Certificate and personal practice.
 
-🎯 Purpose
+**🎯 Purpose**
 
 Data visualization is a key skill for data analysts. This repository aims to:
 
@@ -18,7 +18,7 @@ Demonstrate the use of Matplotlib, Seaborn, and Plotly.
 
 Show how to preprocess datasets and visualize insights clearly.
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
 Python: Pandas, NumPy
 
@@ -28,7 +28,7 @@ Jupyter Notebook / Google Colaboratory
 
 Optional: Word Clouds, Geospatial Mapping Tools
 
-📊 Notebooks & Key Content
+**📊 Notebooks & Key Content**
 Notebook	Description
 Airline_Dashboard.ipynb	Interactive dashboard analyzing airline data
 Area_Plots,_Histograms,_and_Bar_Charts.ipynb	Basic visualizations for quantitative datasets
@@ -51,7 +51,7 @@ Building dashboard-style visualizations
 
 Communicating data insights visually to support decisions
 
-📁 Repository Structure
+**📁 Repository Structure**
 data-visualization-with-python/
 │
 ├── notebooks/
@@ -61,8 +61,7 @@ data-visualization-with-python/
 │   └── ...other notebooks
 ├── data/  (optional: datasets used)
 └── README.md
-
-🚀 How to Run
+**🚀 How to Run**
 
 Clone the repository:
 
@@ -73,11 +72,11 @@ Open notebooks in Jupyter Notebook or Google Colab.
 
 Run cells to view visualizations and experiments.
 
-👤 Author
+**👤 Author
 
 Shanthi Vijayan
 Data Analyst | Software Engineer
-Toronto, Canada
+Toronto, Canada**
 
 
 If you want, I can also rewrite a full README for your Capstone project next. That one will be the most impressive pinned repo for recruiters.
